@@ -1,5 +1,7 @@
 # DATA SCIENCE
 
+[Version en notion](https://www.notion.so/DATA-SCIENCE-30ee68a4128a45a0a030a94be62d33f7) ![notion](images_Data_Science/notion.PNG)
+
 - GENERALIDADES
     
     ¿Qué es data Science?: es el proceso de descubrir información valiosa de los datos.
